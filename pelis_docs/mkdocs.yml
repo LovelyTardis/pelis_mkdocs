@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Películas
+nav:
+    - Inicio: 'index.md'
+    - Baby Driver: 'babydriver.md'
+    - El juego de Ender: 'juegoender.md'
