@@ -1,11 +1,9 @@
 # Mis películas favoritas
 
-[/babydriver.md]
-
 | PELÍCULAS | LINK DIRECTO |
 | --------- | ------------ |
-| Baby Driver | [./babydriver.md][PlGd] |
-| El juego de Ender | [juegoender.md][PlGd] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Baby Driver | [Baby Driver link](babydriver.md) |
+| El juego de Ender | [El juego de Ender link](juegoender.md) |
+| Spiderman: Lejos de casa | [Spiderman link](spiderman.md) |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
