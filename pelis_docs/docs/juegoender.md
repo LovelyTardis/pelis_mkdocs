@@ -1,5 +1,7 @@
 #El juego de Ender
 
+![Screenshot](img/juegoender.jpg)
+
 ##Sinopsis
 
 El juego de Ender es una película futurista ambientada en el año 2070. 
@@ -23,3 +25,7 @@ soldados. El coronel Hyrum Graff (Harrison Ford, Cowboys and Aliens)
 será su mentor, el cual le pondrá al límite con extremos entrenamientos 
 físicos y psicológicos. ¿Será Ender capaz de salvar al planeta de la 
 invasión extraterrestre?
+
+* `Protagonista` Asa Butterfield
+* `Año` 2013
+* `Director` Gavin Hood

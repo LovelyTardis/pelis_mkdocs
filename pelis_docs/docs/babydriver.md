@@ -1,5 +1,7 @@
 #Baby Driver
 
+![Screenshot](img/babydriver.jpg)
+
 ##Sinopsis
 
 Baby (Ansel Elgort), un joven y talentoso conductor especializado en 
@@ -9,3 +11,7 @@ una oportunidad para abandonar su vida criminal y realizar una huida
 limpia. Pero después de ser forzado a trabajar para un jefe de una banda 
 criminal (Kevin Spacey), deberá dar la cara cuando un golpe malogrado 
 amenace su vida, su amor y su libertad.
+
+* `Protagonista` Ansel Elgort
+* `Año` 2017
+* `Director` Edgar Wright

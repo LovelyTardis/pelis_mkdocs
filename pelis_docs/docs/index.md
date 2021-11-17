@@ -5,5 +5,5 @@
 | Baby Driver | [Baby Driver link](babydriver.md) |
 | El juego de Ender | [El juego de Ender link](juegoender.md) |
 | Spiderman: Lejos de casa | [Spiderman link](spiderman.md) |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| Regreso al futuro | [Regreso al futuro link](regresofuturo.md) |
+| Doctor Who: El día del Doctor | [Doctor Who link](diadoctor.md) |

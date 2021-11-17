@@ -3,7 +3,11 @@ nav:
     - Inicio: 'index.md'
     - Baby Driver: 'babydriver.md'
     - El juego de Ender: 'juegoender.md'
-    - Spiderman: Lejos de casa: 'spiderman.md'
+    - Spiderman Lejos de casa: 'spiderman.md'
+    - Regreso al futuro: 'regresofuturo.md'
+    - El día del Doctor: 'diadoctor.md'
+
 theme:
     name: readthedocs
+
 copyright: Hecho por Albert Chao Vasco.
