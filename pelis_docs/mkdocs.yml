@@ -3,3 +3,5 @@ nav:
     - Inicio: 'index.md'
     - Baby Driver: 'babydriver.md'
     - El juego de Ender: 'juegoender.md'
+theme:
+    name: readthedocs
